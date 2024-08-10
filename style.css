@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -11,18 +10,15 @@ body {
     background-color: #f4f4f4;
     padding: 20px;
 }
-
 h1 {
     text-align: center;
     margin-bottom: 10px;
     color: #333;
 }
-
 p {
     text-align: center;
     margin-bottom: 15px;
 }
-
 form {
     background-color: #fff;
     padding: 20px;
@@ -31,12 +27,10 @@ form {
     max-width: 600px;
     margin: 0 auto;
 }
-
 label {
     display: flex;
     align-items: center;
 }
-
 input[type="text"],
 input[type="email"],
 input[type="number"],
@@ -49,23 +43,19 @@ textarea {
     border-radius: 4px;
     font-size: 14px;
 }
-
 input[type="radio"],
 input[type="checkbox"] {
     margin-right: 8px; 
 }
-
 fieldset {
     border: none;
     padding: 0;
     margin-bottom: 15px;
 }
-
 legend {
     font-weight: bold;
     margin-bottom: 10px;
 }
-
 button[type="submit"] {
     background-color: #007bff;
     color: #fff;
@@ -76,4 +66,3 @@ button[type="submit"] {
     width: 100%;
     
 }
-
